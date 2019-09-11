@@ -2,11 +2,11 @@
 Some notes on the implementation of
 [Hindsight Experience Replay](https://arxiv.org/abs/1707.01495).
 ## Expected Results
-If you run the [Fetch example](examples/her/her_td3_gym_fetch_reach.py), then
+If you run the [Fetch example](../examples/her/her_td3_gym_fetch_reach.py), then
  you should get results like this:
  ![Fetch HER results](images/FetchReach-v1_HER-TD3.png)
 
-If you run the [GridWorld example](examples/her/her_dqn_gridworld.py)
+If you run the [GridWorld example](../examples/her/her_dqn_gridworld.py)
 , then you should get results like this:
  ![HER Gridworld results](images/her_dqn.png)
 
